@@ -1,7 +1,7 @@
 // display values from the fields:,  username,  phone,  country
 import React from 'react'
 import { Row, Col } from "react-bootstrap"
-export default function Form3({ name, phone, country }) {
+export default function Review({ name, phone, country }) {
   return (
     <div className='fs-5 m-3'>
       <Row>

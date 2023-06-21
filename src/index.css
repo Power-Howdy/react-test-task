@@ -26,6 +26,9 @@ input, button {
   font-size: 30px;
   border: none;
 }
+.error {
+  color: red;
+}
 
 #btn-start-mine:hover {
   /* background-color: #dad3d3; */
